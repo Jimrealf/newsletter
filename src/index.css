@@ -156,7 +156,7 @@ img.success-icon {
 
 @media (max-width: 800px) {
   body {
-    border: 1px solid red;
+    /* border: 1px solid red; */
     height: 100vh;
   }
 
@@ -165,10 +165,10 @@ img.success-icon {
     justify-content: space-between;
     flex-direction: column-reverse;
     border-radius: unset;
-    gap: 3rem;
+    gap: 1.5rem;
     height: 100vh;
     /* max-height: 100vh; */
-    border: 1px solid red;
+    /* border: 1px solid red; */
   }
 
   .container {
@@ -208,7 +208,7 @@ img.success-icon {
   }
 
   button {
-    margin-top: 2.4rem;
-    margin-bottom: 4rem;
+    /* margin-top: 2.4rem; */
+    /* margin-bottom: 4rem; */
   }
 }
