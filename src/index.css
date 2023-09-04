@@ -165,7 +165,7 @@ img.success-icon {
     justify-content: space-between;
     flex-direction: column-reverse;
     border-radius: unset;
-    gap: 1.5rem;
+    gap: 3rem;
     height: 100vh;
     /* max-height: 100vh; */
     /* border: 1px solid red; */
@@ -208,7 +208,7 @@ img.success-icon {
   }
 
   button {
-    /* margin-top: 2.4rem; */
-    /* margin-bottom: 4rem; */
+    margin-top: 2.4rem;
+    margin-bottom: 4rem;
   }
 }
