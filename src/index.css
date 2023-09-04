@@ -156,10 +156,10 @@ img.success-icon {
 @media (max-width: 800px) {
   main {
     width: 100vw;
-    gap: 4rem;
+    justify-content: space-between;
     flex-direction: column-reverse;
     border-radius: unset;
-    height: 100vh;
+    max-height: 100vh;
   }
 
   .container {
@@ -199,9 +199,5 @@ img.success-icon {
   button {
     margin-top: 2.4rem;
     margin-bottom: 4rem;
-  }
-
-  .reset {
-    margin-top: 26.3rem;
   }
 }
